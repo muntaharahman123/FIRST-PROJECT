@@ -27,3 +27,12 @@ box-shadow: 5px 5px 4px lightskyblue; background-color: rgb(197, 212, 226); widt
 #black-color{ color: black; text-align: left; font-size: 30px;}
 
 #color-heading{ color: black; font-size: 40px; }
+
+.last-banner{
+    background-image: url(shape-2.png);
+}
+#web-net{ font-size: 40px; color: lightseagreen;}
+
+h4{ text-align: center;font-size: 30px; color: blanchedalmond; }
+.mission-2022{ box-shadow: black; border: 1px solid black; background-color: black; }
+#style{ text-align: center;  color: chartreuse;}
