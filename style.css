@@ -1,0 +1,11 @@
+.salmon-color{ color: rgb(230, 139, 86);}
+section{ display: flex;}
+body{ 
+    font-family: 'Luxurious Roman', cursive;
+    font-family: 'Poppins', sans-serif;}
+h1{ font-size: 50px;  border-left: 5px solid orangered;
+padding-left: 5px;border-radius: 4px;}
+.width-size{ width: 50%; padding-left: 5%;}
+.width-size img{ width: 80%;}
+.button{ text-decoration: none; background-color: rgb(209, 95, 83);
+padding: 10px 40px ; border-radius:10px; background-image: linear-gradient(orange , tomato);}
